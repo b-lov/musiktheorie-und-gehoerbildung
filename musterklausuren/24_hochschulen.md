@@ -1,24 +1,24 @@
-* http://www.hfm-berlin.de/
-* https://www.udk-berlin.de/startseite/
-* http://www.hfk-bremen.de/
-* http://www.hfm-detmold.de/
-* https://www.hfmdd.de/
-* http://www.rsh-duesseldorf.de/
-* https://www.folkwang-uni.de/home/
-* http://www.hfmdk-frankfurt.info/
-* https://www.mh-freiburg.de/start/
-* https://www.hfmt-hamburg.de/startseite/
-* https://www.hmtm-hannover.de/de/start/
-* http://www.hfm-karlsruhe.de/hfm/
-* https://www.hfmt-koeln.de/
-* http://www.hmt-leipzig.de/
-* http://www.mh-luebeck.de/start/
-* http://www.muho-mannheim.de/
-* http://website.musikhochschule-muenchen.de/de/
-* http://www.hfm-nuernberg.de/home/
-* https://www.hmt-rostock.de/
-* http://www.hfm.saarland.de/
-* https://www.hmdk-stuttgart.de/home/
-* http://www.mh-trossingen.de/home.html
-* http://www.hfm-weimar.de/start.html
-* http://www.hfm-wuerzburg.de/
+* [] http://www.hfm-berlin.de/
+* [] https://www.udk-berlin.de/startseite/
+* [] http://www.hfk-bremen.de/
+* [] http://www.hfm-detmold.de/
+* [] https://www.hfmdd.de/
+* [] http://www.rsh-duesseldorf.de/
+* [] https://www.folkwang-uni.de/home/
+* [] http://www.hfmdk-frankfurt.info/
+* [] https://www.mh-freiburg.de/start/
+* [] https://www.hfmt-hamburg.de/startseite/
+* [] https://www.hmtm-hannover.de/de/start/
+* [] http://www.hfm-karlsruhe.de/hfm/
+* [] https://www.hfmt-koeln.de/
+* [] http://www.hmt-leipzig.de/
+* [] http://www.mh-luebeck.de/start/
+* [] http://www.muho-mannheim.de/
+* [] http://website.musikhochschule-muenchen.de/de/
+* [] http://www.hfm-nuernberg.de/home/
+* [] https://www.hmt-rostock.de/
+* [] http://www.hfm.saarland.de/
+* [] https://www.hmdk-stuttgart.de/home/
+* [] http://www.mh-trossingen.de/home.html
+* [] http://www.hfm-weimar.de/start.html
+* [] http://www.hfm-wuerzburg.de/
