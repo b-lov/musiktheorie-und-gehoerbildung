@@ -1,5 +1,5 @@
-* [ ] http://www.hfm-berlin.de/
-* [ ] https://www.udk-berlin.de/startseite/
+* [x] http://www.hfm-berlin.de/
+* [x] https://www.udk-berlin.de/startseite/
 * [ ] http://www.hfk-bremen.de/
 * [ ] http://www.hfm-detmold.de/
 * [ ] https://www.hfmdd.de/
