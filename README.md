@@ -4,3 +4,4 @@
 
 ## Links
 * [Lehrklänge](http://www.lehrklaenge.de/index.html)
+* [Satzlehre](http://www.satzlehre.de/themen.html)
