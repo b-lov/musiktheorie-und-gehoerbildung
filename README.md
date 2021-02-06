@@ -1,7 +1,8 @@
-<h1 align="center">Aufnahmeprüfung Musiktheorie</h1>
+# Aufnahmeprüfung Musiktheorie
 
-*Materialien zur Vorbereitung für Aufnahmeprüfungen an deutschen Musikhochschulen in den Fächern Musiktheorie und Gehörbildung.*
+_Materialien zur Vorbereitung für Aufnahmeprüfungen an deutschen Musikhochschulen in den Fächern Musiktheorie und Gehörbildung._
 
 ## Links
-* [Lehrklänge](http://www.lehrklaenge.de/index.html)
-* [Satzlehre](http://www.satzlehre.de/themen.html)
+
+- [Lehrklänge](http://www.lehrklaenge.de/index.html)
+- [Satzlehre](http://www.satzlehre.de/themen.html)
