@@ -4,10 +4,10 @@
 - [x] <https://www.udk-berlin.de/startseite/>
 - [x] <http://www.hfk-bremen.de/>
 - [x] <http://www.hfm-detmold.de/>
-- [ ] <https://www.hfmdd.de/>
-- [ ] <http://www.rsh-duesseldorf.de/>
-- [ ] <https://www.folkwang-uni.de/home/>
-- [ ] <http://www.hfmdk-frankfurt.info/>
+- [x] <https://www.hfmdd.de/>
+- [x] <http://www.rsh-duesseldorf.de/>
+- [x] <https://www.folkwang-uni.de/home/>
+- [x] <http://www.hfmdk-frankfurt.info/>
 - [ ] <https://www.mh-freiburg.de/start/>
 - [ ] <https://www.hfmt-hamburg.de/startseite/>
 - [ ] <https://www.hmtm-hannover.de/de/start/>
